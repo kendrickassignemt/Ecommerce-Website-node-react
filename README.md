@@ -6,7 +6,7 @@ Demo Website
 
 Run Locally
 1. Clone repo
-$ git clone git@github.com:basir/node-react-ecommerce.git
+$ git clone git@github.com:kendrickassignemt/node-react-ecommerce.git
 $ cd node-react-ecommerce
 
 2. Install MongoDB
