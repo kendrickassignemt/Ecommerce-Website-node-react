@@ -1,6 +1,6 @@
 # React & Node Ecommerce Website
 
-Welcome to my React and Node website
+Welcome to my React and Node website. This is my third website after learning MongoDB for bit while
 
 ## Demo Website
 
